@@ -26,8 +26,10 @@ const products = [
 
 function App() {
   const handleWhatsApp = () => {
-    window.open(`https://wa.me/6287763249423`, '_blank');
-  };
+    const message = encodeURIComponent("Halo, saya mau beli parfum.");
+    window.open(`https://wa.me/6287763249423?text=${message}`, '_blank');
+};
+
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -72,12 +74,10 @@ function App() {
             </div>
             <div className="md:w-1/10">
             <img 
-  src="https://picsvg.com/svg/1mKGpM.jpg" 
-  alt="Chan Perfume" 
-  className="rounded-lg w-[600px] h-auto" 
-/>
-
-
+              src="https://picsvg.com/svg/1mKGpM.jpg" 
+              alt="Chan Perfume" 
+              className="rounded-lg w-[600px] h-auto" 
+            />
             </div>
           </div>
         </div>
