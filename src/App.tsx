@@ -15,7 +15,7 @@ const products = [
   {
     name: "Blush",
     description: "Blush amour 30ml Extrait de perfume",
-    image: "https://i.ibb.co.com/svqYWzMq/3.jpg"
+    image: "https://i.ibb.co.com/svqYWzMq/3.jpg",
   },
   {
     name: "Titan",
