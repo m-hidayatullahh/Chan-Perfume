@@ -131,14 +131,22 @@ function App() {
               </div>
             </div>
             <div className="flex items-center justify-center">
-              <div className="flex items-center space-x-4">
-                <Instagram size={24} className="text-[#E4B649]" />
-                <div>
-                  <h3 className="font-semibold">Instagram</h3>
-                  <p>@ChanPerfume</p>
-                </div>
-              </div>
-            </div>
+  <div className="flex items-center space-x-4">
+    <Instagram size={24} className="text-[#E4B649]" />
+    <div>
+      <h3 className="font-semibold">Instagram</h3>
+      <a
+        href="https://www.instagram.com/chanofficial._"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="text-white-500 hover:underline"
+      >
+        @Chanofficial._
+      </a>
+    </div>
+  </div>
+</div>
+
           </div>
         </div>
       </section>
