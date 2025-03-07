@@ -11,6 +11,16 @@ const products = [
     name: "Natural Deodorant Collection",
     description: "Blush amour, Titan noir, Ivory breeze",
     image: "https://images.unsplash.com/photo-1741370227210-4ad422b4dbdf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwcm9maWxlLXBhZ2V8MXx8fGVufDB8fHx8fA%3D%3D",
+  },
+  {
+    name: "Blush",
+    description: "Blush amour 30ml Extrait de perfume",
+    image: "https://i.ibb.co.com/svqYWzMq/3.jpg"
+  },
+  {
+    name: "Titan",
+    description: "Titan noir 30ml Extrait de perfume",
+    image: "https://i.ibb.co.com/whsMdjV1/2.jpg"
   }
 ];
 
