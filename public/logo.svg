@@ -1,0 +1,6 @@
+<svg width="800" height="800" viewBox="0 0 800 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(100, 100) scale(0.75)">
+    <path d="M400 0L800 400L400 800L0 400L400 0Z" fill="#E4B649"/>
+    <path d="M400 150L500 400L400 650L300 400L400 150Z" fill="white"/>
+  </g>
+</svg>
